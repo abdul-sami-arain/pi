@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282935660620",
+    "project_id": "piclasses-ef59f",
+    "storage_bucket": "piclasses-ef59f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282935660620:android:a45bb03203ad687ba124e9",
+        "android_client_info": {
+          "package_name": "com.example.mi_card_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282935660620-ehfclrh578mvmjd4dqrld3uqb64o5o2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDth8OoJP3ub4HqfkEIAlEeEhcqBUD-yRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282935660620-ehfclrh578mvmjd4dqrld3uqb64o5o2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
